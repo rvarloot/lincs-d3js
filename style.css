@@ -1,0 +1,33 @@
+svg {
+    height: 400px;
+    width: 400px;
+    background-color: green;
+}
+
+text {
+    font-size: 8px;
+}
+
+.back {
+    fill: white;
+}
+
+.♣ {
+    color: green;
+    fill: green;
+}
+
+.♦ {
+    color: orange;
+    fill: orange;
+}
+
+.♥ {
+    color: red;
+    fill: red;
+}
+
+.♠ {
+    color: blue;
+    fill: blue;
+}
